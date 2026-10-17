@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Cycle",
+    "slug": "cycle-period-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#FFE4EC" },
+    "android": { "package": "com.atulkumar.cycle" },
+    "ios": { "bundleIdentifier": "com.atulkumar.cycle" }
+  }
+}
